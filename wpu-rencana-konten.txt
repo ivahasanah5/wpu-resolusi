@@ -3,10 +3,12 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework javascript
-  * Neural Network
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
   * Scikit Learn
 - PHP Frameworks
-- Studi Case Project
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
