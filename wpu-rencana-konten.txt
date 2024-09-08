@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
 - Struktur Data Dasar
+  * Scikit Learn
 - PHP Frameworks
   ^ Laravel
 - Interview
